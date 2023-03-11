@@ -11,7 +11,7 @@ Stonedwon will be my first serious project to learn how to program Apps for iPho
 - Preview the .md file before it is published
 
 # Update
-[11/03/23] First update the first alpha version of the app and almost finished I only need to correct a few errors and in a couple of days or at most weeks it depends on how long it takes me to solve I share the code here on GitHub of this very first alpha version of Stonewon.
+**[11/03/23** First update the first alpha version of the app and almost finished I only need to correct a few errors and in a couple of days or at most weeks it depends on how long it takes me to solve I share the code here on GitHub of this very first alpha version of Stonewon.
 
 # Contacts
 If you have advice on how to improve the app or want to give me a hand you can find me on [Twitter](https://www.twitter.com/iMichaelProMax) and you can contact me safely in DM
