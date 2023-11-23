@@ -7,8 +7,8 @@ Stonedwon will be my first serious project to learn how to program Apps for iPho
 # Roadmap
 **Alpha Stonedown App (1.0)**
 - Creating and opening .md files
-- iCloud sync support and the Apple Files app
-- Collaborate with other users to create .md files
+- iCloud sync support and the Apple Files app (Postponed)
+- Collaborate with other users to create .md files (Postponed)
 - Preview the .md file before it is published
 
 # Update
