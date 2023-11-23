@@ -16,7 +16,7 @@ Stonedwon will be my first serious project to learn how to program Apps for iPho
 
 **[16/03/23]** Second update compared to what was budgeted it will take much longer to solve the errors than with each correction new ones appear and to publish the Stonedown alpha code I will have to wait any longer.
 
-**[23/11/23]** TErzo update after months of silence I am still doing fixed bugs since I have not had time for personal motives to sistermare the code of the first alpha, I hope at this point of being able to make at least the first alpha operational. I have decided that two functions in the first alpha will be postponed later since they are not necessary in this embryonic phase and I speak iCloud syncoization with the Apple file app and collaboration with other users, in doing so I should be able to siistemare the code and make the first alpha operational.
+**[23/11/23]** Third update after months of silence I am still doing fixed bugs since I have not had time for personal motives to sistermare the code of the first alpha, I hope at this point of being able to make at least the first alpha operational. I have decided that two functions in the first alpha will be postponed later since they are not necessary in this embryonic phase and I speak iCloud syncoization with the Apple file app and collaboration with other users, in doing so I should be able to siistemare the code and make the first alpha operational.
 
 # Contacts
 If you have advice on how to improve the app or want to give me a hand you can find me on [Twitter](https://www.twitter.com/iMichaelProMax) and you can contact me safely in DM
